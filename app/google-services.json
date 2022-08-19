@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636677720775",
+    "firebase_url": "https://test-firebase-b206d.firebaseio.com",
+    "project_id": "test-firebase-b206d",
+    "storage_bucket": "test-firebase-b206d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636677720775:android:bb8f07b6633e3737514ce2",
+        "android_client_info": {
+          "package_name": "com.example.sampleblegattclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636677720775-fc4606n0efpupl7gsk3edbep1j3scrrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKv_AwBTzjkHywOPdP7YFxDt5o5o2CbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636677720775-fc4606n0efpupl7gsk3edbep1j3scrrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
